@@ -1,0 +1,10 @@
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\bin\Debug\Parcial2Arreglos.exe.config
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\bin\Debug\Parcial2Arreglos.exe
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\bin\Debug\Parcial2Arreglos.pdb
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.Form1.resources
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.Properties.Resources.resources
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.csproj.GenerateResource.cache
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.exe
+C:\Users\OscarEstid\source\repos\Parcial2Arreglos\Parcial2Arreglos\obj\Debug\Parcial2Arreglos.pdb
